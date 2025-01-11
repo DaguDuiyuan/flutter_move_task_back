@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 33
-
+    namespace "com.mouEsam.flutter_move_task_back"
     defaultConfig {
         minSdkVersion 24
         multiDexEnabled true
